@@ -1,0 +1,4 @@
+It's a python studying program.
+python version 3.6.1
+need pip
+need Extension plug-in pygame-1.9.3-cp36-cp36m-win_amd64.whl,pip it!
